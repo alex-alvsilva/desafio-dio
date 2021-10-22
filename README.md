@@ -1,2 +1,2 @@
-# desafio-dio
+# Repositório do desafio da DIO
 Desafio DIO
