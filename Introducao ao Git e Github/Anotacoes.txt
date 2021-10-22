@@ -1,0 +1,11 @@
+Foram aprendidos comandos para o Bash, sendo alguns básicos para arquivos e diretórios, e outros relacionados ao Git.
+
+Entre eles:
+ld
+cd
+mkdir
+rmdir
+
+git init
+git add
+git commit -m
