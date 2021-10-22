@@ -9,3 +9,5 @@ rmdir
 git init
 git add
 git commit -m
+
+Também foi explicado informações sobre SHA e tokens, além de como detectar conflitos e como resolver os mesmos.
